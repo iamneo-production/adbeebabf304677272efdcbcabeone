@@ -36,7 +36,7 @@ header {
     justify-content: center;
 }
 
-.bt {
+.btn {
     width: 75px;
     height: 75px;
     border: 2px solid #fff;
@@ -50,11 +50,11 @@ header {
     margin: 5px;
 }
 
-.bt:hover {
+.btn:hover {
     background-color: rgba(255, 255, 255, 0.9);
 }
 
-.bt:disabled {
+.btn:disabled {
     color: black;
     cursor: no-drop;
 }
